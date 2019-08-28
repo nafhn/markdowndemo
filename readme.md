@@ -28,6 +28,6 @@ Demo in VSCode!
 
 Download the VSCode extension “[Markdown all in one](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)” (optional, but highly recommended). Main benefits of this plugin are quality of life things such as “text editor like” shortcut keys for doing things like bolding and auto hyperlink creation and (my favorite) print to HTML. This allows creating PDF’s using your browser of choice in order to easily make professional looking docs from your notes (Chrome creates good PDF’s, BTW).
 
-Note: VSCode already does "syntax highlighting" and preview mode for MD withouth this extension.
+Note: VSCode already does "syntax highlighting" and preview mode for MD without this extension.
 
 Also open the markdowndemo.md file shared with you in google drive.
