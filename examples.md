@@ -79,4 +79,4 @@ italicize this (*ctrl i* or single *)
 
 ## Images
 
-Sometimes you want an image like this: ![boring](N.png). this can be good for adding a corporate logo, etc.
+Sometimes you want an image like this: ![boring](N.png), which can be good for adding a corporate logo, etc.
