@@ -9,6 +9,7 @@
   - [some text to mess with](#some-text-to-mess-with)
   - [lists](#lists)
   - [Images](#images)
+
 (note many of the below items are for the table of contents)
 
 # Header 1
