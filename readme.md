@@ -22,6 +22,9 @@ Commonmark [cheatsheet](https://commonmark.org/help/)
 
 Bitbucket [specific cheatsheet](https://confluence.atlassian.com/bitbucketserver/markdown-syntax-guide-776639995.html) 
 
+Languages ["supported" by GFM](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml)  
+Note: that this will likely vary (e.g. Gitlab and Confluence may not support the same list and the "on-prem" versions of any of these products may be different than their "cloud" counterparts).
+
 ## Examples
 
 Demo in VSCode! 

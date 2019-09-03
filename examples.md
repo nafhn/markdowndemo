@@ -7,6 +7,8 @@
 - [Other](#other)
   - [A messy table](#a-messy-table)
   - [some text to mess with](#some-text-to-mess-with)
+  - [lists](#lists)
+  - [Images](#images)
 (note many of the below items are for the table of contents)
 
 # Header 1
@@ -60,3 +62,21 @@ public class Hello {
 bold this (**ctrl b** with extension or surround with double asterisks **)
 
 italicize this (*ctrl i* or single *)
+
+## lists
+
+**unorderd**  
+* item 2
+* item 1
+
+**ordered**  
+1. item 1
+2.   not item 100
+
+**checklist**  
+- [ ] wish this was complete
+- [x] this is done
+
+## Images
+
+Sometimes you want an image like this: ![boring](N.png). this can be good for adding a corporate logo, etc.
